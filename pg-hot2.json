@@ -1,8 +1,8 @@
 [
     {
         "name": "Masa Aktif 30 Hari",
-        "price": "Rp1000 (refund kalo beruntung)",
-        "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.Saldo akan di-refund setelah 10-30 menit.Pastikan metode scan QRIS support refund.",
+        "price": "Rp1000",
+        "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.Saldo akan di-refund setelah 10-30 menit. Kalo beruntung.",
         "packages": [
             {
                 "family_name": "Akrab",
