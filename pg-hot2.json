@@ -1,70 +1,8 @@
 [
     {
-        "name": "Masa Aktif 45 Hari (Katanya Coid)",
-        "price": "Rp0",
-        "detail": "Membuat masa aktif menjadi 45 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance/pulsa.",
-        "packages": [
-            {
-                "family_name": "",
-                "family_code": "69c4a625-5c9a-4241-befa-fac1d3692dbb",
-                "is_enterprise": false,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_name": "",
-                "variant_code": "e3929f3b-1787-46a3-9d62-c1a703dd9b7e",
-                "option_name": "",
-                "order": 15
-            },
-            {
-                "family_name": "",
-                "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
-                "option_name": "",
-                "order": 1
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 889750,
-        "token_confirmation_idx": 0,
-        "amount_idx": -1
-    },
-    {
         "name": "Masa Aktif 30 Hari",
-        "price": "Rp0",
-        "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance/pulsa.",
-        "packages": [
-            {
-                "family_name": "Akrab",
-                "family_code": "f4fd69c7-12a4-4047-a1f2-f4072a7c543e",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Akrab",
-                "variant_code": "555a091d-b1eb-43c2-925f-3da485fecf5f",
-                "option_name": "19GB for 2 Members",
-                "order": 17
-            },
-            {
-                "family_name": "",
-                "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
-                "option_name": "",
-                "order": 1
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 889750,
-        "token_confirmation_idx": 0,
-        "amount_idx": -1
-    },
-    {
-        "name": "Masa Aktif 30 Hari",
-        "price": "Rp1000 (refund)",
-        "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.",
+        "price": "Rp1000 (refund kalo beruntung)",
+        "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.Saldo akan di-refund setelah 10-30 menit.Pastikan metode scan QRIS support refund.",
         "packages": [
             {
                 "family_name": "Akrab",
@@ -96,7 +34,7 @@
     {
         "name": "Pros Champion 20GB + Unlimited",
         "price": "Rp40000",
-        "detail": "\nUnlimited WA, MLBB & Free Fire.\nKonstantinopel tidak ditaklukan oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "detail": "Unlimited WA, MLBB & Free Fire. Coba aja pakai, kalo cocok bisa gas.",
         "packages": [
             {
                 "family_name": "Xtra Combo Flex",
@@ -126,7 +64,7 @@
     {
         "name": "Vidi Beats 20GB + Unlimited",
         "price": "Rp40000",
-        "detail": "Unlimited WA & Spotify. Jangan lupa untuk sebarkan paket ini dan gabung ke channel TUNNEL FT DOR",
+        "detail": "UNLIMITED WHATSAPP DAN SPOTIFY, TAPI TERGANTUNG MUKA WKWKW! JANGAN LUPA GABUNG CHANNEL TUNNEL FT DOR",
         "packages": [
             {
                 "family_name": "Xtra Combo Flex",
@@ -156,7 +94,7 @@
         {
         "name": "Udemy 15GB",
         "price": "Rp7500",
-        "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
+        "detail": "Biar kamu makin pinter, beli ini aja murah meriah | Tunnel ft Dor",
         "packages": [
             {
                 "family_name": "Bonus myRewards",
@@ -186,7 +124,7 @@
     {
         "name": "Shopeefood 12GB + Unlimited",
         "price": "Rp55000",
-        "detail": "\nUnlimited WA & Shopee.\nTembok China tidak dibangun oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "detail": "Anda laper? butuh kouta internet yang bisa beli makanan dan nonton tiktok sepuasnya? beli ini, dijamin masih laper!",
         "packages": [
             {
                 "family_name": "ShopeeFood Packages",
@@ -216,7 +154,7 @@
     {
         "name": "Flex L 12GB + Kuota Lokal",
         "price": "Rp43000",
-        "detail": "Pastikan tidak memiliki paket Xtra Combo Flex\nSupported payment: E-wallet & QRIS.",
+        "detail": "Pastikan tidak memiliki paket Xtra Combo Flex ya bambang",
         "packages": [
             {
                 "family_name": "Special dikotamu",
@@ -246,7 +184,7 @@
     {
         "name": "Flex L+ 16GB + Kuota Lokal",
         "price": "Rp52000",
-        "detail": "Pastikan tidak memiliki paket Xtra Combo Flex\nSupported payment: E-wallet & QRIS.",
+        "detail": "Pastikan tidak memiliki paket Xtra Combo Flex ya maskuu",
         "packages": [
             {
                 "family_name": "Special dikotamu",
@@ -276,7 +214,7 @@
     {
         "name": "Xtra Combo Flex XS",
         "price": "Rp15000",
-        "detail": "Konstantinopel tidak ditaklukan oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "detail": "Cewe cantik tidak ditaklukan oleh orang yang berduit, tapi yang berani dan tidak ragu - Rahmarie.",
         "packages": [
             {
                 "family_name": "Xtra Combo Flex - test",
@@ -303,4 +241,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": -1
     }
-]
+                ]
