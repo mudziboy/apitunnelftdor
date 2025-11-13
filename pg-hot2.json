@@ -1,7 +1,7 @@
 [
     {
-        "name": "Masa Aktif 30 Hari",
-        "price": "Rp1000 refund",
+        "name": "Mastif 30 Hari (Refund)",
+        "price": "Rp1000",
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.",
         "packages": [
             {
@@ -362,7 +362,7 @@
         "amount_idx": 0
     },
     {
-        "name": "Swadaya 4GB (7Hari)",
+        "name": "Swadaya 4GB (7 Hari)",
         "price": "Rp20000",
         "detail": "Paket Swadaya 7 Hari.\nEdukasi 2GB\nUnlimited Aplikasi Gojek & Waze\nBeli dan cari bugnya, belajar jadi Ahli Per-inject-kan.",
         "packages": [
@@ -392,7 +392,7 @@
         "amount_idx": 0
     },
     {
-        "name": "Swadaya 11GB (30Hari)",
+        "name": "Swadaya 11GB (30 Hari)",
         "price": "Rp50000",
         "detail": "Paket Swadaya 30 Hari.\nEdukasi 2GB\nUnlimited Aplikasi Gojek & Waze\nBeli dan cari bugnya, dan jadilah Ahli Per-inject-kan.",
         "packages": [
@@ -422,7 +422,7 @@
         "amount_idx": 0
     },
     {
-        "name": "XCS 14GB (30Hari)",
+        "name": "XCS 14GB (30 Hari)",
         "price": "Rp20300",
         "detail": "Xtra Combo Spesial 30 Hari.\nBonus kouta tergantung Area.\nKalo gadapet 14GB berati Areamu suram.",
         "packages": [
@@ -452,7 +452,7 @@
         "amount_idx": 0
     },
     {
-        "name": "Youtube Unli (3Hari)",
+        "name": "Youtube Unli (3 Hari)",
         "price": "Rp12000",
         "detail": "Yang Unli-Unli aja.\nCocok buat kalian yang butuh kouta gede\nBug dan cara injectnya cari aja sendiri.",
         "packages": [
@@ -481,4 +481,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": 0
     }
-                ]
+        ]
