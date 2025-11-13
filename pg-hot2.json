@@ -29,7 +29,7 @@
         "ask_overwrite": false,
         "overwrite_amount": 1000,
         "token_confirmation_idx": 0,
-        "amount_idx": -1
+        "amount_idx": 0
     },
     {
         "name": "Vidi Beats 20GB + Unlimited",
@@ -154,7 +154,7 @@
     {
         "name": "Flex L+ 16GB + Kuota Lokal",
         "price": "Rp52000",
-        "detail": "Pastikan tidak memiliki paket Xtra Combo Flex\n.",
+        "detail": "Pastikan tidak memiliki paket Xtra Combo Flex\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
                 "family_name": "Special dikotamu",
@@ -220,7 +220,7 @@
                 "family_name": "",
                 "family_code": "f9e05016-128a-435f-9139-b9db459d59e6",
                 "is_enterprise": false,
-                "migration_type": null,
+                "migration_type": "NONE",
                 "variant_code": "2f1fb6a4-b7d1-4966-9214-8c1664e3a023",
                 "option_name": "",
                 "order": 1
@@ -254,21 +254,21 @@
                 "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
                 "option_name": "60GB Setahun",
                 "order": 1
-        },
-        {
-            "family_name": "QRIS D 0",
-            "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-            "is_enterprise": true,
-            "migration_type": "NONE",
-            "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-            "option_name": "QRIS D 0",
-            "order": 11
-        }
-    ],
-    "payment_for": "SHARE_PACKAGE",
-    "ask_overwrite": false,
-    "overwrite_amount": 0,
-    "token_confirmation_idx": 1, 
-    "amount_idx": 0 
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 0,
+        "token_confirmation_idx": 1, 
+        "amount_idx": -1 
     }
-        ]
+]
