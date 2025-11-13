@@ -34,7 +34,7 @@
     {
         "name": "Vidi Beats 20GB + Unlimited",
         "price": "Rp40000",
-        "detail": "\nUnlimited WA & Spotify.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\nTKP TIMUR TESTER WORTH IT",
+        "detail": "\nUnlimited WA & Spotify.\nSupport TKP Timur dan Sekitarnya.\nUntuk Jabar Silahkan saja, Resiko ditanggung Bpk Purbaya",
         "packages": [
             {
                 "family_name": "Xtra Combo Flex",
@@ -64,7 +64,7 @@
     {
         "name": "Udemy 15GB",
         "price": "Rp7500",
-        "detail": "\nMembuat belajarmu lebih asyik.\nSupported payment: E-wallet & QRIS.",
+        "detail": "Pengganti Edukasi, Support Wilayah Barat.",
         "packages": [
             {
                 "family_name": "Bonus myRewards",
@@ -94,7 +94,7 @@
     {
         "name": "Shopeefood 12GB + Unlimited",
         "price": "Rp55000",
-        "detail": "\nUnlimited WA & Shopee.\nBelum di uji coba, jika kamu mau menjadi suhu perinject-an, silahkan beli.",
+        "detail": "\nUnlimited WA & Shopee.\nJika kamu mau menjadi suhu perinject-an, silahkan beli.",
         "packages": [
             {
                 "family_name": "ShopeeFood Packages",
@@ -124,7 +124,7 @@
     {
         "name": "Flex L 12GB + Kuota Lokal",
         "price": "Rp43000",
-        "detail": "Pastikan tidak memiliki paket Xtra Combo Flex\nSupported payment: E-wallet & QRIS.",
+        "detail": "Pastikan tidak memiliki paket Xtra Combo Flex\nUnlimited belum di ujicoba oleh Admin\nSilahkan ujicoba sendiri",
         "packages": [
             {
                 "family_name": "Special dikotamu",
@@ -154,7 +154,7 @@
     {
         "name": "Flex L+ 16GB + Kuota Lokal",
         "price": "Rp52000",
-        "detail": "Pastikan tidak memiliki paket Xtra Combo Flex\nSupported payment: E-wallet & QRIS.",
+        "detail": "Pastikan tidak memiliki paket Xtra Combo Flex\nBelum di tester ke unlian oleh Admin\nSilahkan tester sendiri.",
         "packages": [
             {
                 "family_name": "Special dikotamu",
@@ -184,7 +184,7 @@
     {
         "name": "Xtra Combo Flex XS",
         "price": "Rp15000",
-        "detail": "Tidak cocok untuk kaum mundang mending",
+        "detail": "Unlimited Whatsapp & Line\nSilahkan ujicoba sendiri untuk Unlimitednya sesuai TKP masing-masing.",
         "packages": [
             {
                 "family_name": "Xtra Combo Flex - test",
@@ -214,7 +214,7 @@
     {
         "name": "Extra Combo",
         "price": "Rp59900",
-        "detail": "Ragumu Rugimu Raimu.",
+        "detail": "Yang paham-paham aja\nIngat, Candi Borobudur tidak dibangun oleh mereka yang ragu.",
         "packages": [
             {
                 "family_name": "",
@@ -244,7 +244,7 @@
     {
         "name": "BIZ Starter 30 Hari",
         "price": "Rp49000",
-        "detail": "Termasuk 30GB Kuota Conference.\nUnlimited WA & Line & Call ke XL/AXIS.\nSupported payment: E-wallet & QRIS.",
+        "detail": "Termasuk 30GB Kuota Conference.\nUnlimited WA & Line & Call ke XL/AXIS.\nCoba aja, kalo coid pasti refund\nKartu Biz Ori bisa beli ini.",
         "packages": [
             {
                 "family_name": "BIZ Prepaid",
@@ -274,7 +274,7 @@
     {
         "name": "BIZ Prime 30 Hari",
         "price": "Rp99000",
-        "detail": "Termasuk 30GB Kuota Conference.\nUnlimited WA & Line & Call ke XL/AXIS.\nSupported payment: E-wallet & QRIS.",
+        "detail": "Termasuk 30GB Kuota Conference.\nUnlimited WA & Line & Call ke XL/AXIS.\nOpsi untuk kalian pengguna Unlimited & OPENWRT\nSupported Kartu Biz Ori.",
         "packages": [
             {
                 "family_name": "BIZ Prepaid",
@@ -304,7 +304,7 @@
     {
         "name": "EduConference 30GB",
         "price": "Rp10",
-        "detail": "Kuota 30GB untuk Aplikasi Edukasi/Conference.\nSangat murah, cocok untuk ujicoba.\nSupported payment: E-wallet & QRIS.",
+        "detail": "Kuota 30GB untuk Aplikasi Edukasi/Conference.\nHanya bisa dibeli oleh pengguna Biz Ori",
         "packages": [
             {
                 "family_name": "EduConference",
@@ -334,7 +334,7 @@
     {
         "name": "YouTube 5GB (1 Hari)",
         "price": "Rp5000",
-        "detail": "Kuota YouTube 5GB berlaku 1 hari.\nSupported payment: E-wallet & QRIS.",
+        "detail": "Kuota YouTube 5GB berlaku 1 hari.\nBisa buat ujicoba bug Youtube.",
         "packages": [
             {
                 "family_name": "YouTube Quota Promo",
@@ -364,7 +364,7 @@
     {
         "name": "YouTube 10GB (7 Hari)",
         "price": "Rp12000",
-        "detail": "Kuota YouTube 10GB berlaku 7 hari.\nSupported payment: E-wallet & QRIS.",
+        "detail": "Kuota YouTube 10GB berlaku 7 hari.\nOpsi buat TKP yang kurang cocok dengan Edu, Conf atau Udemy.",
         "packages": [
             {
                 "family_name": "YouTube Quota Promo",
@@ -395,7 +395,7 @@
     {
         "name": "VIP 15GB (30 Hari)",
         "price": "Rp73000",
-        "detail": "XTRA Combo Plus VIP 15GB.\nTermasuk Kuota Lokal 2GB.\nSupported payment: E-wallet & QRIS.",
+        "detail": "XTRA Combo Plus VIP 15GB.\nTermasuk Kuota Lokal 2GB.\nBuat pengguna Unlimited\nWanita idaman hanya bisa didapatkan oleh mereka yang berani",
         "packages": [
             {
                 "family_name": "XTRA Combo Plus (Gift)",
@@ -425,7 +425,7 @@
     {
         "name": "Reguler 14GB (30 Hari)",
         "price": "Rp61500",
-        "detail": "XTRA Combo Plus Reguler 14GB.\nTermasuk Kuota Lokal 2GB.\nSupported payment: E-wallet & QRIS.",
+        "detail": "XTRA Combo Plus Reguler 14GB.\nTermasuk Kuota Lokal 2GB.\nBukan VIP\nOpsi buat kalian yang kurang kurang duit buat beli VIP.",
         "packages": [
             {
                 "family_name": "XTRA Combo Plus (Gift)",
