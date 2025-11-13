@@ -1,6 +1,6 @@
 [
     {
-        "name": "Mastif 30 Hari (Refund)",
+        "name": "Masa aktif (30 Hari)",
         "price": "Rp1000",
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.",
         "packages": [
@@ -481,4 +481,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": 0
     }
-        ]
+                ]
