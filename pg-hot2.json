@@ -15,13 +15,12 @@
                 "order": 17
             },
             {
-                "family_name": "",
+                "family_name": "QRIS D 0",
                 "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "",
                 "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "",
+                "option_name": "Tiktok 2GB",
                 "order": 27
             }
         ],
@@ -63,7 +62,7 @@
     },
     {
         "name": "Udemy 15GB",
-        "price": "Rp7500",
+        "price": "Rp7500 7Hari",
         "detail": "Pengganti Edukasi, Support Wilayah Barat.",
         "packages": [
             {
@@ -217,12 +216,12 @@
         "detail": "Yang paham-paham aja\nIngat, Candi Borobudur tidak dibangun oleh mereka yang ragu.",
         "packages": [
             {
-                "family_name": "",
+                "family_name": "Purchase Pre2Prio",
                 "family_code": "f9e05016-128a-435f-9139-b9db459d59e6",
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "2f1fb6a4-b7d1-4966-9214-8c1664e3a023",
-                "option_name": "",
+                "option_name": "XTRA Combo 5GB+GB, 30hr, 59.900 Trial",
                 "order": 1
             },
             {
@@ -240,96 +239,6 @@
         "overwrite_amount": 59900,
         "token_confirmation_idx": 1,
         "amount_idx": -1
-    },
-    {
-        "name": "BIZ Starter 30 Hari",
-        "price": "Rp49000",
-        "detail": "Termasuk 30GB Kuota Conference.\nUnlimited WA & Line & Call ke XL/AXIS.\nCoba aja, kalo coid pasti refund\nKartu Biz Ori bisa beli ini.",
-        "packages": [
-            {
-                "family_name": "BIZ Prepaid",
-                "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "d0adce55-7d0e-4f60-89c5-0847810824ce",
-                "option_name": "BIZ Starter",
-                "order": 1
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 49000,
-        "token_confirmation_idx": 1,
-        "amount_idx": 0
-    },
-    {
-        "name": "BIZ Prime 30 Hari",
-        "price": "Rp99000",
-        "detail": "Termasuk 30GB Kuota Conference.\nUnlimited WA & Line & Call ke XL/AXIS.\nOpsi untuk kalian pengguna Unlimited & OPENWRT\nSupported Kartu Biz Ori.",
-        "packages": [
-            {
-                "family_name": "BIZ Prepaid",
-                "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "d0adce55-7d0e-4f60-89c5-0847810824ce",
-                "option_name": "BIZ Prime",
-                "order": 2
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 99000,
-        "token_confirmation_idx": 1,
-        "amount_idx": 0
-    },
-    {
-        "name": "EduConference 30GB",
-        "price": "Rp10",
-        "detail": "Kuota 30GB untuk Aplikasi Edukasi/Conference.\nHanya bisa dibeli oleh pengguna Biz Ori",
-        "packages": [
-            {
-                "family_name": "EduConference",
-                "family_code": "fcf982c8-523b-4748-9258-5fca2c0b703d",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "f7e3e547-b6a3-4de3-83fd-05fce842e943",
-                "option_name": "EduConference 30GB, Rp.10",
-                "order": 1
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 10,
-        "token_confirmation_idx": 1,
-        "amount_idx": 0
     },
     {
         "name": "YouTube 5GB (1 Hari)",
@@ -451,5 +360,125 @@
         "overwrite_amount": 61500,
         "token_confirmation_idx": 1,
         "amount_idx": 0
+    },
+    {
+        "name": "Swadaya 4GB ft Edu",
+        "price": "Rp22000 7Hari",
+        "detail": "Paket Swadaya 7 Hari.\nEdukasi 2GB\nUnlimited Aplikasi Gojek & Waze\nBeli dan cari bugnya, belajar jadi Ahli Per-inject-kan.",
+        "packages": [
+            {
+                "family_name": "Swadaya Xlalu Untukmu",
+                "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "84585d90-cc35-40af-be04-3ccde3732035",
+                "option_name": "Swadaya Xlalu Untukmu 4GB",
+                "order": 3
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "QRIS D 0",
+                "order": 6
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 22000,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "Swadaya 11GB ft Edu",
+        "price": "Rp52000 30Hari",
+        "detail": "Paket Swadaya 30 Hari.\nEdukasi 2GB\nUnlimited Aplikasi Gojek & Waze\nBeli dan cari bugnya, dan jadilah Ahli Per-inject-kan.",
+        "packages": [
+            {
+                "family_name": "Swadaya Xlalu Untukmu",
+                "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "84585d90-cc35-40af-be04-3ccde3732035",
+                "option_name": "Swadaya Xlalu Untukmu 11GB",
+                "order": 4
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "QRIS D 0",
+                "order": 6
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 52000,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "XCS 14GB",
+        "price": "Rp20300 30Hari",
+        "detail": "Xtra Combo Spesial 30 Hari.\nBonus kouta tergantung Area.\nKalo gadapet 14GB berati Areamu suram.",
+        "packages": [
+            {
+                "family_name": "Voucher",
+                "family_code": "96d99f87-8963-40e4-a522-8bea86504fee",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "f6b4666c-152c-4504-8bd8-571ee42edd13",
+                "option_name": "Xtra Combo Spesial 14GB",
+                "order": 160
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 20300,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "Youtube Unlimited",
+        "price": "Rp12000 3Hari",
+        "detail": "Yang Unli-Unli aja.\nCocok buat kalian yang butuh kouta gede\nBug dan cara injectnya cari aja sendiri.",
+        "packages": [
+            {
+                "family_name": "Video \u0026 Music",
+                "family_code": "b50cef3e-fcd0-4699-83a9-6f5740b7ef31",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b7181a1e-12d9-427c-8147-9478874c71b0",
+                "option_name": "Youtube",
+                "order": 1
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 12000,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
     }
-]
+                ]
