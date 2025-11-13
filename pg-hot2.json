@@ -61,8 +61,8 @@
         "amount_idx": -1
     },
     {
-        "name": "Udemy 15GB",
-        "price": "Rp7500 7Hari",
+        "name": "Udemy 15GB(7Hari)",
+        "price": "Rp7500",
         "detail": "Pengganti Edukasi, Support Wilayah Barat.",
         "packages": [
             {
@@ -211,7 +211,7 @@
         "amount_idx": -1
     },
     {
-        "name": "Extra Combo",
+        "name": "Extra Combo (30Hari)",
         "price": "Rp59900",
         "detail": "Yang paham-paham aja\nIngat, Candi Borobudur tidak dibangun oleh mereka yang ragu.",
         "packages": [
@@ -362,8 +362,8 @@
         "amount_idx": 0
     },
     {
-        "name": "Swadaya 4GB ft Edu",
-        "price": "Rp22000 7Hari",
+        "name": "Swadaya 4GB (7Hari)",
+        "price": "Rp20000",
         "detail": "Paket Swadaya 7 Hari.\nEdukasi 2GB\nUnlimited Aplikasi Gojek & Waze\nBeli dan cari bugnya, belajar jadi Ahli Per-inject-kan.",
         "packages": [
             {
@@ -392,8 +392,8 @@
         "amount_idx": 0
     },
     {
-        "name": "Swadaya 11GB ft Edu",
-        "price": "Rp52000 30Hari",
+        "name": "Swadaya 11GB (30Hari)",
+        "price": "Rp50000",
         "detail": "Paket Swadaya 30 Hari.\nEdukasi 2GB\nUnlimited Aplikasi Gojek & Waze\nBeli dan cari bugnya, dan jadilah Ahli Per-inject-kan.",
         "packages": [
             {
@@ -422,8 +422,8 @@
         "amount_idx": 0
     },
     {
-        "name": "XCS 14GB",
-        "price": "Rp20300 30Hari",
+        "name": "XCS 14GB (30Hari)",
+        "price": "Rp20300",
         "detail": "Xtra Combo Spesial 30 Hari.\nBonus kouta tergantung Area.\nKalo gadapet 14GB berati Areamu suram.",
         "packages": [
             {
@@ -452,8 +452,8 @@
         "amount_idx": 0
     },
     {
-        "name": "Youtube Unlimited",
-        "price": "Rp12000 3Hari",
+        "name": "Youtube Unli (3Hari)",
+        "price": "Rp12000",
         "detail": "Yang Unli-Unli aja.\nCocok buat kalian yang butuh kouta gede\nBug dan cara injectnya cari aja sendiri.",
         "packages": [
             {
