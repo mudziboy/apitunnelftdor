@@ -1,6 +1,6 @@
 [
     {
-        "name": "Masa aktif (30 Hari)",
+        "name": "Masa Aktif 30 Hari",
         "price": "Rp1000",
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.",
         "packages": [
@@ -58,10 +58,10 @@
         "ask_overwrite": false,
         "overwrite_amount": 40000,
         "token_confirmation_idx": 1,
-        "amount_idx": -1
+        "amount_idx": 0
     },
     {
-        "name": "Udemy 15GB(7Hari)",
+        "name": "Udemy 15GB(7 Hari)",
         "price": "Rp7500",
         "detail": "Pengganti Edukasi, Support Wilayah Barat.",
         "packages": [
@@ -88,7 +88,7 @@
         "ask_overwrite": false,
         "overwrite_amount": 7500,
         "token_confirmation_idx": 1,
-        "amount_idx": -1
+        "amount_idx": 0
     },
     {
         "name": "Shopeefood 12GB + Unlimited",
@@ -118,7 +118,7 @@
         "ask_overwrite": false,
         "overwrite_amount": 55000,
         "token_confirmation_idx": 1,
-        "amount_idx": -1
+        "amount_idx": 0
     },
     {
         "name": "Flex L 12GB + Kuota Lokal",
@@ -148,7 +148,7 @@
         "ask_overwrite": false,
         "overwrite_amount": 42000,
         "token_confirmation_idx": 1,
-        "amount_idx": -1
+        "amount_idx": 0
     },
     {
         "name": "Flex L+ 16GB + Kuota Lokal",
@@ -178,7 +178,7 @@
         "ask_overwrite": false,
         "overwrite_amount": 52000,
         "token_confirmation_idx": 1,
-        "amount_idx": -1
+        "amount_idx": 0
     },
     {
         "name": "Xtra Combo Flex XS",
@@ -208,10 +208,10 @@
         "ask_overwrite": false,
         "overwrite_amount": 15000,
         "token_confirmation_idx": 1,
-        "amount_idx": -1
+        "amount_idx": 0
     },
     {
-        "name": "Extra Combo (30Hari)",
+        "name": "Extra Combo (30 Hari)",
         "price": "Rp59900",
         "detail": "Yang paham-paham aja\nIngat, Candi Borobudur tidak dibangun oleh mereka yang ragu.",
         "packages": [
@@ -238,7 +238,7 @@
         "ask_overwrite": false,
         "overwrite_amount": 59900,
         "token_confirmation_idx": 1,
-        "amount_idx": -1
+        "amount_idx": 0
     },
     {
         "name": "YouTube 5GB (1 Hari)",
@@ -481,4 +481,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": 0
     }
-                ]
+        ]
