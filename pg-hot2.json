@@ -64,15 +64,6 @@
                 "variant_code": "b41e2af1-811d-41db-8fc9-ccf8bbede05a",
                 "option_name": "Udemy 15GB",
                 "order": 18
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
             }
         ],
         "payment_for": "SHARE_PACKAGE",
@@ -502,4 +493,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": 0
     }
-                ]
+        ]
