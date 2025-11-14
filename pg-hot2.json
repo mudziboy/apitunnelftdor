@@ -58,7 +58,7 @@
         "ask_overwrite": false,
         "overwrite_amount": 40000,
         "token_confirmation_idx": 1,
-        "amount_idx": 0
+        "amount_idx": -1
     },
     {
         "name": "Udemy 15GB(7 Hari)",
@@ -88,7 +88,7 @@
         "ask_overwrite": false,
         "overwrite_amount": 7500,
         "token_confirmation_idx": 1,
-        "amount_idx": 0
+        "amount_idx": -1
     },
     {
         "name": "Shopeefood 12GB + Unlimited",
@@ -481,4 +481,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": 0
     }
-]
+        ]
