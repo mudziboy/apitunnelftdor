@@ -41,7 +41,7 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "e7720acc-4ea3-4c68-9e6b-a181495b21df",
-                "option_name": "Pros Champion 20GB",
+                "option_name": "Vidi Beats 20GB",
                 "order": 113
             }
         ],
@@ -471,5 +471,36 @@
         "overwrite_amount": 12000,
         "token_confirmation_idx": 1,
         "amount_idx": 0
+    },
+    {
+        "name": "Pros Champion + Unlimited",
+        "price": "Rp40000",
+        "detail": "Yang Unli-Unli aja.\nSupport TKP Barat dan sekitarnya\nMethod bisa cari di channel/Grup.",
+        "packages": [
+            {
+                "family_name": "Xtra Combo Flex",
+                "family_code": "3c71892a-852c-4a0f-8cb5-9cf731e26508",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "e7720acc-4ea3-4c68-9e6b-a181495b21df",
+                "option_name": "Pros Champion 20GB",
+                "order": 111
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 40000,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
     }
-                ]
+]
+        ]
