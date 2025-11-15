@@ -20,7 +20,7 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "Tiktok 2GB",
+                "option_name": "QRIS D 0",
                 "order": 27
             }
         ],
@@ -29,27 +29,6 @@
         "overwrite_amount": 1000,
         "token_confirmation_idx": 0,
         "amount_idx": 0
-    },
-    {
-        "name": "Vidi Beats 20GB + Unlimited",
-        "price": "Rp40000",
-        "detail": "\nUnlimited WA & Spotify.\nSupport TKP Timur dan Sekitarnya.\nUntuk Jabar Silahkan saja, Resiko ditanggung Bpk Purbaya",
-        "packages": [
-            {
-                "family_name": "Xtra Combo Flex",
-                "family_code": "3c71892a-852c-4a0f-8cb5-9cf731e26508",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "e7720acc-4ea3-4c68-9e6b-a181495b21df",
-                "option_name": "Vidi Beats 20GB",
-                "order": 113
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 40000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
     },
     {
         "name": "Udemy 15GB(7 Hari)",
