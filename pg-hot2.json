@@ -1,7 +1,7 @@
 [
     {
         "name": "Masa Aktif 30 Hari",
-        "price": "Rp2000",
+        "price": "Rp1000",
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.",
         "packages": [
             {
@@ -26,7 +26,7 @@
         ],
         "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 2000,
+        "overwrite_amount": 1000,
         "token_confirmation_idx": 1,
         "amount_idx": 0
     },
