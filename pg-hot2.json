@@ -1,36 +1,5 @@
 [
     {
-        "name": "CODM",
-        "price": "Rp7500",
-        "detail": "Timur: 3kingdomsextreme.customlinks.appsflyer.com WS\n west-tdm.codmwest.com SNI\nBarat: profile.callofduty.com\nwww.callofduty.com",
-        "packages": [
-            {
-                "family_name": "Xtra Unlimited Turbo Plus",
-                "family_code": "9cd2f58c-c64d-43df-9e6f-225a6461951d",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Xtra Unlimited Turbo Plus",
-                "variant_code": "8035fc91-a61e-40ef-8b57-37f98896fb0f",
-                "option_name": "Call Of Duty",
-                "order": 4
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 7500,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
         "name": "Masa Aktif 30 Hari",
         "price": "Rp1000",
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.",
@@ -535,4 +504,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": 0
     }
-        ]
+                ]
