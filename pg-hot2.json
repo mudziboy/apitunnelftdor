@@ -74,7 +74,10 @@
                 "package_variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
                 "package_option_code": "U0NfX6xyg7pgXaNJicbbKHDJ33uQeJhxHd3SytoWq3ZGyuZLHCAq2NQNDiSQeUcZNAh6ctoJHkxLxOsqagt2Ijc",
                 "order": 21,
-                "name": "PRIO Medsos"
+                "name": "PRIO Medsos",
+            "validity": "",
+            "information": "",
+            "price": 25000,
             },
             {
                 "family_name": "QRIS D 0",
