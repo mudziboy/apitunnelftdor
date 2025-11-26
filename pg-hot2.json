@@ -62,6 +62,36 @@
         "amount_idx": 0
     },
     {
+        "name": "Prio Medsos + Unlimited",
+        "price": "Rp27750",
+        "detail": "\nUnlimited Instagram, Twitter, Lazada, BliBli, & Facebook.\nFup dan Cara injectnya belum di uji coba\nsilahkan jika mau ujicoba sendiri\nAtau liat channel untuk informasi selanjutnya.",
+        "packages": [
+            {
+                "family_name": "PRIO Package",
+                "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
+                "is_enterprise": false,
+                "migration_type": "ADD_ON",
+                "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
+                "option_name": "PRIO Medsos",
+                "order": 21
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 27750,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
         "name": "XCP 5GB + Add-on",
         "price": "Rp30000",
         "detail": "Paket ini butuh Addon untuk di inject\nSilahkan beli Add-on XCP\nAdd-on FB untuk TKP Jateng\nAdd-on IG untuk TKP Jabar\nAdd-on TIKTOK untuk ALL TKP\nAdd-on WA untuk Suhu\nFup sesuai kouta Add-on",
@@ -75,6 +105,15 @@
                 "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
                 "option_name": "5GB",
                 "order": 9
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
             }
         ],
         "payment_for": "SHARE_PACKAGE",
