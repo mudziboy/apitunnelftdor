@@ -69,7 +69,7 @@
             {
                 "family_name": "PRIO Package",
                 "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
-                "is_enterprise": false,
+                "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
                 "option_name": "PRIO Medsos",
@@ -513,4 +513,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": 0
     }
-                ]
+]
