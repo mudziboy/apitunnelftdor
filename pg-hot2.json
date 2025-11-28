@@ -32,8 +32,8 @@
         "amount_idx": -1
     },
     {
-        "name": "Shopeefood 12GB + Unlimited",
-        "price": "Rp55000",
+        "name": "Shopeefood 21GB + Unlimited",
+        "price": "Rp80000",
         "detail": "\nUnlimited WA & Shopee.\nJika kamu mau menjadi suhu perinject-an, silahkan beli.",
         "packages": [
             {
@@ -42,8 +42,8 @@
                 "is_enterprise": true,
                 "migration_type": "NONE",
                 "variant_code": "6991704b-5d65-4d5d-ac89-3b0a449a7aa1",
-                "option_name": "Shopeefood 12GB",
-                "order": 2
+                "option_name": "Shopeefood 21GB",
+                "order": 1
             },
             {
                 "family_name": "QRIS D 0",
@@ -57,7 +57,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 55000,
+        "overwrite_amount": 21000,
         "token_confirmation_idx": 1,
         "amount_idx": 0
     },
@@ -93,9 +93,9 @@
         "amount_idx": 0
     },
     {
-        "name": "XCP 5GB + Add-on",
+        "name": "XCP + Add-on",
         "price": "Rp30000",
-        "detail": "Paket ini butuh Addon untuk di inject\nSilahkan beli Add-on XCP\nAdd-on FB untuk TKP Jateng\nAdd-on IG untuk TKP Jabar\nAdd-on TIKTOK untuk ALL TKP\nAdd-on WA untuk Suhu\nFup sesuai kouta Add-on",
+        "detail": "Usahakan tidak ada XCP lain\nPaket ini butuh Addon untuk di inject\nSilahkan beli Add-on XCP\nAdd-on FB untuk TKP Jateng\nAdd-on IG untuk TKP Jabar\nAdd-on TIKTOK untuk ALL TKP\nAdd-on WA untuk Suhu\nFup sesuai kouta Add-on",
         "packages": [
             {
                 "family_name": "Xtra Combo Plus",
@@ -483,35 +483,5 @@
         "overwrite_amount": 12000,
         "token_confirmation_idx": 1,
         "amount_idx": 0
-    },
-    {
-        "name": "Pros Champion + Unlimited",
-        "price": "Rp40000",
-        "detail": "Yang Unli-Unli aja.\nSupport TKP Barat dan sekitarnya\nMethod bisa cari di channel/Grup.",
-        "packages": [
-            {
-                "family_name": "Xtra Combo Flex",
-                "family_code": "3c71892a-852c-4a0f-8cb5-9cf731e26508",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "e7720acc-4ea3-4c68-9e6b-a181495b21df",
-                "option_name": "Pros Champion 20GB",
-                "order": 111
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 40000,
-        "token_confirmation_idx": 1,
-        "amount_idx": 0
     }
-        ]
+                ]
