@@ -1,48 +1,48 @@
 [
     {
-        "name": "Conference 15GB",
-        "price": "Rp10000",
-        "detail": "Kouta 15GB\nMasa Aktif 7 Hari",
+        "name": "Masa Aktif 30 Hari",
+        "price": "Rp1000",
+        "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.",
         "packages": [
             {
-                "family_name": "Conference",
-                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
-                "is_enterprise": true,
-                "migration_type": "ADD_ON",
-                "variant_name": "Conference",
-                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
-                "option_name": "Conference 15GB",
-                "order": 3
+                "family_name": "Akrab",
+                "family_code": "f4fd69c7-12a4-4047-a1f2-f4072a7c543e",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Akrab",
+                "variant_code": "555a091d-b1eb-43c2-925f-3da485fecf5f",
+                "option_name": "19GB for 2 Members",
+                "order": 17
             },
             {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
+                "family_name": "",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
+                "variant_name": "",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "",
+                "order": 27
             }
         ],
-        "payment_for": "SHARE_PACKAGE",
+        "payment_for": "BUY_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 10000,
-        "token_confirmation_idx": 1,
+        "overwrite_amount": 1000,
+        "token_confirmation_idx": 0,
         "amount_idx": -1
     },
     {
-        "name": "CATCHPLAY+ 3 Hari",
-        "price": "Rp7500",
-        "detail": "Menurut info BMKG FUP 60GB\nTester Barat + Sumatera",
+        "name": "Shopeefood 21GB + Unlimited",
+        "price": "Rp80000",
+        "detail": "\nUnlimited WA & Shopee.\nJika kamu mau menjadi suhu perinject-an, silahkan beli.",
         "packages": [
             {
-                "family_name": "Video \u0026 Music",
-                "family_code": "b50cef3e-fcd0-4699-83a9-6f5740b7ef31",
-                "is_enterprise": false,
-                "migration_type": "ADD_ON",
-                "variant_name": "CATCHPLAY+",
-                "variant_code": "c2271e07-1016-4164-93fb-03bae708f016",
-                "option_name": "CATCHPLAY+",
+                "family_name": "ShopeeFood Packages",
+                "family_code": "11adf9c8-7003-447c-98e4-353d33a216b3",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "6991704b-5d65-4d5d-ac89-3b0a449a7aa1",
+                "option_name": "Shopeefood 21GB",
                 "order": 1
             },
             {
@@ -57,23 +57,445 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 75000,
+        "overwrite_amount": 80000,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "Shopeefood 5GB 7 Hari",
+        "price": "Rp26000",
+        "detail": "\nUnlimited WA & Shopee.\nJika kamu mau menjadi suhu perinject-an, silahkan beli.",
+        "packages": [
+            {
+                "family_name": "ShopeeFood Packages",
+                "family_code": "11adf9c8-7003-447c-98e4-353d33a216b3",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "6991704b-5d65-4d5d-ac89-3b0a449a7aa1",
+                "option_name": "Shopeefood 5GB",
+                "order": 3
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 26000,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "Prio Medsos + Unlimited",
+        "price": "Rp27750",
+        "detail": "SC Prio Only\nSc Prabayar jangan coba-coba, kecuali jika Anda pemberani dan tampan\nUnlimited Instagram, Twitter, Lazada, BliBli, & Facebook.\nFup dan Cara injectnya belum di uji coba\nSilahkan jika mau ujicoba sendiri\nAtau liat channel untuk informasi selanjutnya.",
+        "packages": [
+            {
+                "family_name": "PRIO Package",
+                "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
+                "is_enterprise": false,
+                "migration_type": "PRIOH_TO_PRIOH",
+                "variant_name": "PRIO Package",
+                "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
+                "option_name": "PRIO Medsos",
+                "order": 21
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 27750,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "XCP + Add-on",
+        "price": "Rp30000",
+        "detail": "Usahakan tidak ada XCP lain\nPaket ini butuh Addon untuk di inject\nSilahkan beli Add-on XCP\nAdd-on FB untuk TKP Jateng\nAdd-on IG untuk TKP Jabar\nAdd-on TIKTOK untuk ALL TKP\nAdd-on WA untuk Suhu\nFup sesuai kouta Add-on",
+        "packages": [
+            {
+                "family_name": "Xtra Combo Plus",
+                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Reguler",
+                "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+                "option_name": "5GB",
+                "order": 9
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 30000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
     {
-        "name": "NETFLIX+ 3 Hari",
-        "price": "Rp12000",
-        "detail": "Menurut info BMKG FUP 30GB\nTester Barat + Sumatera",
+        "name": "Flex L 12GB + Kuota Lokal",
+        "price": "Rp43000",
+        "detail": "Pastikan tidak memiliki paket Xtra Combo Flex\nUnlimited belum di ujicoba oleh Admin\nSilahkan ujicoba sendiri",
         "packages": [
             {
-                "family_name": "Netflix",
+                "family_name": "Special dikotamu",
+                "family_code": "8da393e6-51ed-49f3-94b6-f28ab16f88a9",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "cd52a6a4-8fe3-4a0a-a197-06bc558117e0",
+                "option_name": "Flex L",
+                "order": 3
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 42000,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "Flex L+ 16GB + Kuota Lokal",
+        "price": "Rp52000",
+        "detail": "Pastikan tidak memiliki paket Xtra Combo Flex\nBelum di tester ke unlian oleh Admin\nSilahkan tester sendiri.",
+        "packages": [
+            {
+                "family_name": "Special dikotamu",
+                "family_code": "8da393e6-51ed-49f3-94b6-f28ab16f88a9",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "cd52a6a4-8fe3-4a0a-a197-06bc558117e0",
+                "option_name": "Flex L",
+                "order": 4
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 52000,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "Xtra Combo Flex XS",
+        "price": "Rp15000",
+        "detail": "Silahkan ujicoba sendiri sesuai TKP masing-masing.",
+        "packages": [
+            {
+                "family_name": "Xtra Combo Flex - test",
+                "family_code": "f59b6f2b-4d77-4443-8361-3b1d3377f09e",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "c1a05696-8360-47ce-a915-34a5a1093929",
+                "option_name": "Xtra Combo Flex XS",
+                "order": 35
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 15000,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "Extra Combo (30 Hari)",
+        "price": "Rp59900",
+        "detail": "Yang paham-paham aja\nIngat, Candi Borobudur tidak dibangun oleh mereka yang ragu.",
+        "packages": [
+            {
+                "family_name": "Purchase Pre2Prio",
+                "family_code": "f9e05016-128a-435f-9139-b9db459d59e6",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "2f1fb6a4-b7d1-4966-9214-8c1664e3a023",
+                "option_name": "XTRA Combo 5GB+GB, 30hr, 59.900 Trial",
+                "order": 1
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 59900,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "YouTube 5GB (1 Hari)",
+        "price": "Rp5000",
+        "detail": "Kuota YouTube 5GB berlaku 1 hari.\nBisa buat ujicoba bug Youtube.",
+        "packages": [
+            {
+                "family_name": "YouTube Quota Promo",
+                "family_code": "1fe292a5-5fef-430e-917b-e0eaeeb89f93",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "79ee96f3-5fdd-453a-98bf-6d8bf6d561a8",
+                "option_name": "YouTube 5GB",
+                "order": 3
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 5000,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "YouTube 10GB (7 Hari)",
+        "price": "Rp12000",
+        "detail": "Kuota YouTube 10GB berlaku 7 hari.\nOpsi buat TKP yang kurang cocok dengan Edu, Conf atau Udemy.",
+        "packages": [
+            {
+                "family_name": "YouTube Quota Promo",
+                "family_code": "1fe292a5-5fef-430e-917b-e0eaeeb89f93",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "79ee96f3-5fdd-453a-98bf-6d8bf6d561a8",
+                "option_name": "YouTube 10GB",
+                "order": 4
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 12000,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    
+    {
+        "name": "VIP 15GB (30 Hari)",
+        "price": "Rp73000",
+        "detail": "XTRA Combo Plus VIP 15GB.\nTermasuk Kuota Lokal 2GB.\nBuat pengguna Unlimited\nWanita idaman hanya bisa didapatkan oleh mereka yang berani",
+        "packages": [
+            {
+                "family_name": "XTRA Combo Plus (Gift)",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
+                "option_name": "VIP 15GB",
+                "order": 5
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 73000,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "Reguler 14GB (30 Hari)",
+        "price": "Rp61500",
+        "detail": "XTRA Combo Plus Reguler 14GB.\nTermasuk Kuota Lokal 2GB.\nBukan VIP\nOpsi buat kalian yang kurang kurang duit buat beli VIP.",
+        "packages": [
+            {
+                "family_name": "XTRA Combo Plus (Gift)",
+                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "590056ce-4578-40cd-afce-fb9729620ca2",
+                "option_name": "14GB",
+                "order": 5
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 61500,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "Swadaya 4GB (7 Hari)",
+        "price": "Rp20000",
+        "detail": "Paket Swadaya 7 Hari.\nEdukasi 2GB\nUnlimited Aplikasi Gojek & Waze\nBeli dan cari bugnya, belajar jadi Ahli Per-inject-kan.",
+        "packages": [
+            {
+                "family_name": "Swadaya Xlalu Untukmu",
+                "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "84585d90-cc35-40af-be04-3ccde3732035",
+                "option_name": "Swadaya Xlalu Untukmu 4GB",
+                "order": 3
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "QRIS D 0",
+                "order": 6
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 22000,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "Swadaya 11GB (30 Hari)",
+        "price": "Rp50000",
+        "detail": "Paket Swadaya 30 Hari.\nEdukasi 2GB\nUnlimited Aplikasi Gojek & Waze\nBeli dan cari bugnya, dan jadilah Ahli Per-inject-kan.",
+        "packages": [
+            {
+                "family_name": "Swadaya Xlalu Untukmu",
+                "family_code": "17edc338-402e-412f-acc4-3f24009cfeaa",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "84585d90-cc35-40af-be04-3ccde3732035",
+                "option_name": "Swadaya Xlalu Untukmu 11GB",
+                "order": 4
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
+                "option_name": "QRIS D 0",
+                "order": 6
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 52000,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "XCS 14GB (30 Hari)",
+        "price": "Rp20300",
+        "detail": "Xtra Combo Spesial 30 Hari.\nBonus kouta tergantung Area.\nKalo gadapet 14GB berati Areamu suram.",
+        "packages": [
+            {
+                "family_name": "Voucher",
+                "family_code": "96d99f87-8963-40e4-a522-8bea86504fee",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "f6b4666c-152c-4504-8bd8-571ee42edd13",
+                "option_name": "Xtra Combo Spesial 14GB",
+                "order": 160
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 20300,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
+        "name": "Youtube Unli (3 Hari)",
+        "price": "Rp12000",
+        "detail": "Yang Unli-Unli aja.\nCocok buat kalian yang butuh kouta gede\nBug dan cara injectnya cari aja sendiri.",
+        "packages": [
+            {
+                "family_name": "Video \u0026 Music",
                 "family_code": "b50cef3e-fcd0-4699-83a9-6f5740b7ef31",
                 "is_enterprise": false,
-                "migration_type": "ADD_ON",
-                "variant_name": "Netflix",
-                "variant_code": "e0535647-eafc-46cd-aeee-9af12f5750e7",
-                "option_name": "Netflix",
+                "migration_type": "NONE",
+                "variant_code": "b7181a1e-12d9-427c-8147-9478874c71b0",
+                "option_name": "Youtube",
                 "order": 1
             },
             {
@@ -90,440 +512,6 @@
         "ask_overwrite": false,
         "overwrite_amount": 12000,
         "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Edukasi 15GB",
-        "price": "Rp15000",
-        "detail": "Kouta 15GB\nMasa Aktif 7 Hari",
-        "packages": [
-            {
-                "family_name": "Work \u0026 School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
-                "is_enterprise": false,
-                "migration_type": "ADD_ON",
-                "variant_name": "Work \u0026 School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Education 15GB",
-                "order": 4
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 15000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Conference V2 15GB",
-        "price": "Rp20000",
-        "detail": "Kouta 15GB\nMasa Aktif 7 Hari",
-        "packages": [
-            {
-                "family_name": "Work \u0026 School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
-                "is_enterprise": false,
-                "migration_type": "ADD_ON",
-                "variant_name": "Work \u0026 School",
-                "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-                "option_name": "Video Conference 15GB",
-                "order": 1
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 15000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "AddOn FB XCP 15GB",
-        "price": "Rp5000",
-        "detail": "Beli dulu paket XCP 5GB di dorV2\nBug FB support Jateng",
-        "packages": [
-            {
-                "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
-                "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Bonus Xtra Combo Plus 15GB",
-                "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
-                "option_name": "Facebook 15GB",
-                "order": 6
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 5000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "AddOn IG XCP 15GB",
-        "price": "Rp5000",
-        "detail": "Beli dulu paket XCP 5GB di dorV2\nBug IG support Jabar",
-        "packages": [
-            {
-                "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
-                "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Bonus Xtra Combo Plus 15GB",
-                "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
-                "option_name": "Instagram 15GB",
-                "order": 5
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 5000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "AddOn TT XCP 15GB",
-        "price": "Rp5000",
-        "detail": "Beli dulu paket XCP 5GB di dorV2\nBug TIKTOK support All TKP",
-        "packages": [
-            {
-                "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
-                "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Bonus Xtra Combo Plus 15GB",
-                "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
-                "option_name": "TikTok 15GB",
-                "order": 8
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 5000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "AddOn WA XCP 15GB",
-        "price": "Rp5000",
-        "detail": "Beli dulu paket XCP 5GB di dorV2\nBug WA buat para suhu inject",
-        "packages": [
-            {
-                "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
-                "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Bonus Xtra Combo Plus 15GB",
-                "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
-                "option_name": "WhatsApp 15GB",
-                "order": 4
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 5000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Add on Sosmed 7GB",
-        "price": "Rp4500",
-        "detail": "Beli dulu paket XCP di dorV2\nFB, IG, TIKTOK.",
-        "packages": [
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 8GB",
-                "family_code": "5f2f5a37-f362-4907-894f-c273ca2ed5c5",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Bonus Xtra Combo Plus 7GB",
-                "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
-                "option_name": "Social Media 7GB",
-                "order": 2
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 4500,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Add on Game 7GB",
-        "price": "Rp4500",
-        "detail": "Beli dulu paket XCP di dorV2\nBugnya bisa cari di grup",
-        "packages": [
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 8GB",
-                "family_code": "5f2f5a37-f362-4907-894f-c273ca2ed5c5",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Bonus Xtra Combo Plus 7GB",
-                "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
-                "option_name": "Games 7GB",
-                "order": 1
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 4500,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Add on Streaming 7GB",
-        "price": "Rp4500",
-        "detail": "Beli dulu paket XCP di dorV2\nYT, Spotify, Vidio",
-        "packages": [
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 8GB",
-                "family_code": "5f2f5a37-f362-4907-894f-c273ca2ed5c5",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Bonus Xtra Combo Plus 7GB",
-                "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
-                "option_name": "Streaming 7GB",
-                "order": 3
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 4500,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Add on Wa 7GB",
-        "price": "Rp3000",
-        "detail": "Beli dulu paket XCP di dorV2\nBug para suhu",
-        "packages": [
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 8GB",
-                "family_code": "5f2f5a37-f362-4907-894f-c273ca2ed5c5",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Bonus Xtra Combo Plus 7GB",
-                "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
-                "option_name": "Social Media 7GB",
-                "order": 4
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 3000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Add on IG 7GB",
-        "price": "Rp3000",
-        "detail": "Beli dulu paket XCP di dorV2\nTKP Jabar Support Mode SNI.",
-        "packages": [
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 8GB",
-                "family_code": "5f2f5a37-f362-4907-894f-c273ca2ed5c5",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Bonus Xtra Combo Plus 7GB",
-                "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
-                "option_name": "Instagram 7GB",
-                "order": 6
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 3000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Add on FB 7GB",
-        "price": "Rp3000",
-        "detail": "Beli dulu paket XCP di dorV2\nTKP Jateng mode Ws atau WC.",
-        "packages": [
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 8GB",
-                "family_code": "5f2f5a37-f362-4907-894f-c273ca2ed5c5",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Bonus Xtra Combo Plus 7GB",
-                "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
-                "option_name": "Facebook 7GB",
-                "order": 7
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 3000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Add on YT 7GB",
-        "price": "Rp3000",
-        "detail": "Beli dulu paket XCP di dorV2\nTKP Jateng Mode Websocket/Wildcard.",
-        "packages": [
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 8GB",
-                "family_code": "5f2f5a37-f362-4907-894f-c273ca2ed5c5",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Bonus Xtra Combo Plus 7GB",
-                "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
-                "option_name": "Youtube 7GB",
-                "order": 8
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 3000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "Add on Tiktok 7GB",
-        "price": "Rp3000",
-        "detail": "Beli dulu paket XCP di dorV2\nALL TKP bug api24-normal.tiktokv.com mode Wc/Ws.",
-        "packages": [
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 8GB",
-                "family_code": "5f2f5a37-f362-4907-894f-c273ca2ed5c5",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_name": "Bonus Xtra Combo Plus 7GB",
-                "variant_code": "1286d067-1f50-4967-9c1f-c943b2fa530d",
-                "option_name": "TikTok 7GB",
-                "order": 9
-            },
-            {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
-                "order": 11
-            }
-        ],
-        "payment_for": "BUY_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 3000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
+        "amount_idx": 0
     }
         ]
