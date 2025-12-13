@@ -95,7 +95,7 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "Bundling",
-                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",,
+                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
                 "option_name": "60GB Setahun",
                 "order": 1
             },
@@ -126,7 +126,7 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "Bundling",
-                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",,
+                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
                 "option_name": "45GB Setahun",
                 "order": 2
             },
@@ -157,7 +157,7 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_name": "Bundling",
-                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",,
+                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
                 "option_name": "36GB Setahun Youtube",
                 "order": 3
             },
