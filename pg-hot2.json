@@ -2,7 +2,7 @@
     {
         "name": "Masa Aktif 7 Hari",
         "price": "Rp0",
-        "detail": "Membuat masa aktif menjadi 7 hari dari tanggal pembelian. Tidak bisa akumulasi.\nGunakan Pembayaran via Pulsa\nAkan ada notif Payment SYSTEMERROR dari aplikasi XL\nAdmin tester ketika ada pulsa\nDan Pulsa Tidak Terpotong",
+        "detail": "JANGAN PAKAI QRIS | Beli PAKAI PULSA\nMembuat masa aktif menjadi 7 hari dari tanggal pembelian. Tidak bisa akumulasi.\nGunakan Pembayaran via Pulsa\nAkan ada notif Payment SYSTEMERROR dari aplikasi XL\nAdmin tester ketika ada pulsa\nDan Pulsa Tidak Terpotong",
         "packages": [
             {
                 "family_name": "Akrab",
@@ -87,7 +87,7 @@
     {
         "name": "Bundling 60GB Setahun",
         "price": "Rp0",
-        "detail": "Metode PULSA Only\nKouta hanya pajangan (harus fresh imei kah?)\nMasa Aktif 12 bulan per 1 bulan sekali perpanjangan masa aktif\nKouta sulit di unreg\nTidak bisa di inject\nUsahakan nol pulsa untuk menghindari hal yang tidak di inginkan walaupun no malak pulsa\nTidak bisa akumulasi\nTapi bisa beli varian bundling lain",
+        "detail": "Metode PULSA jangan pakai QRIS\nKouta hanya pajangan (harus fresh imei kah?)\nMasa Aktif 12 bulan per 1 bulan sekali perpanjangan masa aktif\nKouta sulit di unreg\nTidak bisa di inject\nUsahakan nol pulsa untuk menghindari hal yang tidak di inginkan walaupun no malak pulsa\nTidak bisa akumulasi\nTapi bisa beli varian bundling lain",
         "packages": [
             {
                 "family_name": "Bundling",
@@ -118,7 +118,7 @@
     {
         "name": "Bundling 45GB Setahun",
         "price": "Rp0",
-        "detail": "Metode PULSA Only\nKouta sulit digunakan(fresh imei mungkin?)\nMasa Aktif 12 bulan per 1 bulan sekali perpanjangan masa aktif\nKouta sulit di unreg\nTidak bisa di inject\nUsahakan nol pulsa untuk menghindari hal yang tidak di inginkan walaupun no malak pulsa\nTidak bisa akumulasi\nBisa ditambah pakai varian bundling lain",
+        "detail": "Metode PULSA jangan pakai QRIS\nKouta sulit digunakan(fresh imei mungkin?)\nMasa Aktif 12 bulan per 1 bulan sekali perpanjangan masa aktif\nKouta sulit di unreg\nTidak bisa di inject\nUsahakan nol pulsa untuk menghindari hal yang tidak di inginkan walaupun no malak pulsa\nTidak bisa akumulasi\nBisa ditambah pakai varian bundling lain",
         "packages": [
             {
                 "family_name": "Bundling",
@@ -149,7 +149,7 @@
     {
         "name": "Bundling 36GB Setahun Youtube",
         "price": "Rp0",
-        "detail": "Metode PULSA Only\nKouta tidak bisa digunakan (mungkin harus fresh imei)\nMasa Aktif 12 bulan per 1 bulan sekali perpanjangan masa aktif\nKouta sulit di unreg\nTidak bisa di inject\nUsahakan nol pulsa untuk menghindari hal yang tidak di inginkan walaupun no malak pulsa\nTidak bisa akumulasi\nBisa ditambah pakai varian bundling lain",
+        "detail": "Metode PULSA saja jangan pake QRIS\nKouta tidak bisa digunakan (mungkin harus fresh imei)\nMasa Aktif 12 bulan per 1 bulan sekali perpanjangan masa aktif\nKouta sulit di unreg\nTidak bisa di inject\nUsahakan nol pulsa untuk menghindari hal yang tidak di inginkan walaupun no malak pulsa\nTidak bisa akumulasi\nBisa ditambah pakai varian bundling lain",
         "packages": [
             {
                 "family_name": "Bundling",
