@@ -1,3 +1,4 @@
+
 [
     {
         "name": "Masa Aktif 7 Hari",
@@ -43,7 +44,7 @@
                 "variant_name": "Akrab",
                 "variant_code": "555a091d-b1eb-43c2-925f-3da485fecf5f",
                 "option_name": "7553 146GB for 4 Members",
-                "order": 19
+                "order": 20
             },
             {
                 "family_name": "",
@@ -452,4 +453,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": 0
     }
-]
+        ]
