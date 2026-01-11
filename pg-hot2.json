@@ -412,7 +412,7 @@
     },
     {
         "name": "XCS 14GB (30 Hari)",
-        "price": "Rp20300",
+        "price": "Rp21300",
         "detail": "Xtra Combo Spesial 30 Hari.\nBonus kouta tergantung Area.\nKalo gadapet 14GB berati Areamu suram.",
         "packages": [
             {
@@ -424,19 +424,19 @@
                 "option_name": "Xtra Combo Spesial 14GB",
                 "order": 160
             },
-            {
-                "family_name": "",
-                "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
-                "is_enterprise": true,
+             {
+                "family_name": "Apps Quota Xtra Combo Plus",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
-                "option_name": "",
-                "order": 1
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "Instagram 2GB",
+                "order": 24
             }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 20300,
+        "overwrite_amount": 21300,
         "token_confirmation_idx": 1,
         "amount_idx": 1
     },
@@ -461,4 +461,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": 0
     }
-        ]
+]
