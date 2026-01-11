@@ -423,7 +423,7 @@
                 "variant_code": "f6b4666c-152c-4504-8bd8-571ee42edd13",
                 "option_name": "Xtra Combo Spesial 14GB",
                 "order": 160
-            },
+            }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
@@ -452,4 +452,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": 0
     }
-        ]
+]
