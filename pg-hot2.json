@@ -63,6 +63,28 @@
         "amount_idx": -1
     },
     {
+        "name": "Prio Medsos + Unlimited",
+        "price": "Rp27750",
+        "detail": "SC Prio Only\nSc Prabayar jangan coba-coba, kecuali jika Anda pemberani dan tampan\nUnlimited Instagram, Twitter, Lazada, BliBli, & Facebook.\nFup dan Cara injectnya belum di uji coba\nSilahkan jika mau ujicoba sendiri\nAtau liat channel untuk informasi selanjutnya.",
+        "packages": [
+            {
+                "family_name": "PRIO Package",
+                "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
+                "is_enterprise": false,
+                "migration_type": "PRIOH_TO_PRIOH",
+                "variant_name": "PRIO Package",
+                "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
+                "option_name": "PRIO Medsos",
+                "order": 21
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 27750,
+        "token_confirmation_idx": 1,
+        "amount_idx": 0
+    },
+    {
         "name": "Bundling 60GB Setahun",
         "price": "Rp0",
         "detail": "Metode PULSA jangan pakai QRIS\nKouta hanya pajangan (harus fresh imei)\nMasa Aktif 12 bulan per 1 bulan sekali perpanjangan masa aktif\nKouta sulit di unreg\nTidak bisa di inject\nUsahakan nol pulsa untuk menghindari hal yang tidak di inginkan walaupun no malak pulsa\nTidak bisa akumulasi\nTapi bisa beli varian bundling lain",
@@ -303,6 +325,7 @@
         "token_confirmation_idx": 1,
         "amount_idx": 0
     },
+    
     {
         "name": "VIP 15GB (30 Hari)",
         "price": "Rp73000",
@@ -410,12 +433,13 @@
                 "option_name": "QRIS D 0",
                 "order": 10
             }
+
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
         "overwrite_amount": 20300,
         "token_confirmation_idx": 1,
-        "amount_idx": 0
+        "amount_idx": 1
     },
     {
         "name": "Youtube Unli (3 Hari)",
@@ -438,4 +462,4 @@
         "token_confirmation_idx": 1,
         "amount_idx": 0
     }
-]
+                ]
