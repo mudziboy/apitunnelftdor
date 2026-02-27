@@ -44,13 +44,14 @@
                 "order": 20
             },
             {
-                "family_name": "XL PASS",
-                "family_code": "b0a20d74-0c54-4e3b-8f3f-01e7482e50bf",
-                "is_enterprise": true,
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "719d093f-6f8d-46a4-8390-6a0003a172ea",
-                "option_name": "XL PASS 30 days",
-                "order": 1
+                "variant_name": "Bonus Xtra Combo Plus 2GB",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "Tiktok 2GB",
+                "order": 27
             }
         ],
         "payment_for": "BUY_PACKAGE",
