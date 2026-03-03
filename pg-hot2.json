@@ -106,11 +106,21 @@
                 "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
                 "option_name": "5GB",
                 "order": 9
+            },
+            {
+                "family_name": "Kuota Aplikasi BIZ 2GB",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "Spotify 2GB",
+                "order": 14,
+                "price": 1000
             }
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 30000,
+        "overwrite_amount": 31000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     }
